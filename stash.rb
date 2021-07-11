@@ -1,3 +1,4 @@
+Updated to check stash aplly command
 Updated from master
 Updated from development
 Hi
